@@ -1,0 +1,7 @@
+streamlit
+paddlepaddle==2.6.2
+paddleocr==2.8.1
+pdf2image
+pandas
+openpyxl
+opencv-python-headless
